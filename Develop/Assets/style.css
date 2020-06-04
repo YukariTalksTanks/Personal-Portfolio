@@ -7,19 +7,26 @@ body {
     /* background-color: grey; */
     color: whitesmoke;
 }
-.container{
+
+.container {
     position: center;
     padding: 50px;
 }
-.text-block{
+
+.text-block {
     background-color: whitesmoke;
     padding: 20px;
     font-family: 'Libre Baskerville', serif;
 }
-#message-box{
+
+#message-box {
     text-align: top;
     padding: 12px;
     height: 100px;
     margin-top: 6px;
     margin-bottom: 16px;
+}
+
+#about {
+    font-family: 'Source Code Pro', monospace;
 }
