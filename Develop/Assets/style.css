@@ -1,0 +1,25 @@
+body {
+    background-image: url('https://images.freeimages.com/images/large-previews/01a/technology-background-1632715.jpg');
+    width: 100%;
+}
+
+#name {
+    /* background-color: grey; */
+    color: whitesmoke;
+}
+.container{
+    position: center;
+    padding: 50px;
+}
+.text-block{
+    background-color: whitesmoke;
+    padding: 20px;
+    font-family: 'Libre Baskerville', serif;
+}
+#message-box{
+    text-align: top;
+    padding: 12px;
+    height: 100px;
+    margin-top: 6px;
+    margin-bottom: 16px;
+}
